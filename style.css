@@ -90,7 +90,7 @@
             border-radius: 8px;
             transition: transform 0.3s ease;
         }
-        .contact-section-boxtext{
+        .justify-content-center{
             background: var(--primary-color);
             color: rgb(44,62,80);
             padding: 80px 0;
